@@ -24,3 +24,5 @@ jobs:
        #put my githubusername and docker image name
        repository: adelinamerko/fti
        tags: ${{github.run_number}}
+
+   #executed build maven
